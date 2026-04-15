@@ -1,0 +1,34 @@
+{
+  "name": "hothong3k.github.io",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "portfolio web",
+  "keywords": [
+    "Portfolio"
+  ],
+  "homepage": "https://github.com/hothong3k/hothong3k.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/hothong3k/hothong3k.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hothong3k/hothong3k.github.io.git"
+  },
+  "license": "ISC",
+  "author": "ThomasCoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.10",
+    "tailwindcss": "^4.2.2",
+    "vite": "^8.0.8"
+  }
+}
